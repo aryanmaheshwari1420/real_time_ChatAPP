@@ -1,16 +1,8 @@
-# whatsupsender
 
-A new Flutter project.
+A new Flutter Realtime chatApp project.
+<img src = https://github-readme-stats.vercel.app/api?username=aryanmaheshwari1420&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515>
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
+orials,
 samples, guidance on mobile development, and a full API reference.
