@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1079800780314",
+    "project_id": "messagesender-59d7e",
+    "storage_bucket": "messagesender-59d7e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1079800780314:android:8e8c97a313abd7effb63a3",
+        "android_client_info": {
+          "package_name": "com.example.whatsupsender"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1079800780314-a4pagg8d97oilmvq1g35td643haca7uv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqUUq17MrI5BN__ESsp3d9TDGtqP9KxpU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1079800780314-a4pagg8d97oilmvq1g35td643haca7uv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
