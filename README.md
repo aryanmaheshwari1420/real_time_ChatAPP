@@ -1,10 +1,10 @@
 
-## ---------------------------------Realtime ChatApp Project--------------------------------
+## ---------------------------------Realtime ChatApp Project-------------------------
 
 ## Getting Started
 <img src="https://github-readme-stats.vercel.app/api?username=aryanmaheshwari1420&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
-#### 👨‍--------------------------------------------🎓 Things learned through this project-----------------------------------------------------
+#### 👨‍--------------------------------------------🎓 Things learned through this project-------------------------------------
 
 ### Navigation and Routing
 
@@ -38,7 +38,7 @@
 - uuid: ^3.0.5
 - path_provider: ^2.0.11
 
-## ------------------------------------------------- How to Use--------------------------------------
+## ------------------------------------------ How to Use--------------------------------------
 
 - First Screen - Login : Login... if you already create an account
 - Second Screen  - Create an account simply clicking on the "create Account"             
