@@ -38,7 +38,7 @@
 - uuid: ^3.0.5
 - path_provider: ^2.0.11
 
-## ------------------------------------------ How to Use--------------------------------------
+## ------------------------------- How to Use--------------------------------------
 
 - First Screen - Login : Login... if you already create an account
 - Second Screen  - Create an account simply clicking on the "create Account"             
