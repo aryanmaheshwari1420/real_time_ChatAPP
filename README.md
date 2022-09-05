@@ -37,3 +37,18 @@
 - image_picker: ^0.8.4+8
 - uuid: ^3.0.5
 - path_provider: ^2.0.11
+
+## ------------------------------------------------- How to Use--------------------------------------
+
+- First Screen - Login : Login... if you already create an account
+- Second Screen  - Create an account simply clicking on the "create Account"             
+- Third Screen  - Here you see a search bar where you have to enter another user email Whom you want to connect and start chatting.
+-                 Similary Another person need your email to enter in the search bar and connect with you.
+- Fourth Screen - Here you find a simple UI Chat Screen where you can Chat to that person with online status 
+ 
+ ### ENJOY CHATTING.......
+
+
+
+
+
