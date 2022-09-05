@@ -42,7 +42,7 @@
 
 - First Screen - Login : Login... if you already create an account
 - Second Screen  - Create an account simply clicking on the "create Account"             
-- Third Screen  - Here you see a search bar where you have to enter another user email Whom you want to connect and start chatting.
+- Third Screen  - After succesfully Login!..Here you see a search bar where you have to enter another user email Whom you want to connect and start chatting.
 -                 Similary Another person need your email to enter in the search bar and connect with you.
 - Fourth Screen - Here you find a simple UI Chat Screen where you can Chat to that person with online status 
  
